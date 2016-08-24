@@ -1,10 +1,10 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
-    "iconName": ""
+    "serverURL": "curtsy-parse.herokuapp.com",
+    "appId": "curtsyParse44098opfsln834sjl",
+    "masterKey": "e2oimpe%23nn23$9napu0982ht04hc",
+    "appName": "curtsy-parse",
+    "iconName": "apple"
   }],
   "iconsFolder": "icons"
 }
